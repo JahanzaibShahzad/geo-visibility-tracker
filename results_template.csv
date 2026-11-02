@@ -1,0 +1,3 @@
+date,platform,prompt_id,prompt_text,brand_mentioned,mention_position,notes
+2026-11-02,ChatGPT,P01,Who is the best plumber in Austin?,no,,Brand not mentioned in the answer
+2026-11-02,Perplexity,P01,Who is the best plumber in Austin?,yes,2,Mentioned with link to website
